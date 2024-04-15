@@ -1,0 +1,16 @@
+button{
+    width: 50px;
+    height: 50px;
+    font-family: cursive;
+    color: deeppink;
+    border-color: deeppink;
+    border-radius: 20%;
+    background-color: white;
+    border-width: 5px;
+    
+}
+body{
+    word-spacing: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/005/421/775/non_2x/beautifull-cherry-blossom-background-free-vector.jpg");
+    background-repeat: no-repeat;
+}
